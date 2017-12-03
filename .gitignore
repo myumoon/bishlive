@@ -74,4 +74,7 @@
 # Cache files for the editor to use
 /*/DerivedDataCache/*
 
+# Packages
 /bin
+!/bin/x64/.gitkeep
+!/bin/x86/.gitkeep
